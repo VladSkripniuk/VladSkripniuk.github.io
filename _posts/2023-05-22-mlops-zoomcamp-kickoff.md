@@ -1,6 +1,6 @@
 ---
 title: "MLOps journey: MLOps zoomcamp kickoff"
-date: 2023-05-23T22:08
+date: 2023-05-22T22:08
 categories: 
   - Learning
 tags:
