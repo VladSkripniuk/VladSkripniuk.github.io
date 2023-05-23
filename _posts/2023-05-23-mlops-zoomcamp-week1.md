@@ -1,12 +1,11 @@
 ---
-layout: post
 title: "Predicting NYC Taxi Ride Durations: Week 1 MLOps zoomcamp"
-date: "2023-05-23 22:29"
-category: 
+date: 2023-05-23T22:29
+categories: 
+  - Learning
 author: Vladislav Skripniuk
 tags:
   - mlopszoomcamp
-summary: 
 ---
 
 Introduction:
