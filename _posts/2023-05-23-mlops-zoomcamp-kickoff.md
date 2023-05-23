@@ -3,7 +3,6 @@ title: "MLOps journey: MLOps zoomcamp kickoff"
 date: 2023-05-23T22:08
 categories: 
   - Learning
-author: Vladislav Skripniuk
 tags:
   - mlopszoomcamp
 ---
