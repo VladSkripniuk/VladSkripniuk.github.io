@@ -5,7 +5,7 @@ date: "2023-05-23 22:29"
 category: 
 author: Vladislav Skripniuk
 tags:
-  - mlops
+  - mlopszoomcamp
 summary: 
 ---
 
